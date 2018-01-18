@@ -1,2 +1,2 @@
-# Static-resource-To-mount-disk
+# 上传图片/附件等静态内容到挂载盘
 NFS Nginx..
